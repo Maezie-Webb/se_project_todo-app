@@ -38,9 +38,7 @@ const generateTodo = (data) => {
   //day: "numeric",
   //})}`;
   //}
-  //todoDeleteBtn.addEventListener("click", () => {
-  //todoElement.remove();
-  //});
+  
 };
 
 addTodoButton.addEventListener("click", () => {
