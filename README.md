@@ -9,8 +9,10 @@ This app allows the user to add individul tasks with a name and due date. Each t
 
 ## Technology
 
-This project uses 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+CSS
+HTML
+JavaScripts 
+OOP
 
 ## Deployment
 
